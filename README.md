@@ -1,7 +1,5 @@
 ## Hello World! I'm Esa Azmi Faiq 👋<br>
 ![ThisMe](img/Esa_Azmi_Faiq.png)
-![ThisMe](img/github-header-banner.png)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/esa_azmi_faiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Esa_Azmi_Faiq) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Esa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esazmiq087@gmail.com) 

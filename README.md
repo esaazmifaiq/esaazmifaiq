@@ -1,6 +1,6 @@
 ## Hello World! I'm Esa Azmi Faiq 👋
 
-![ThisMe](img/IMG_0691.JPG)
+![ThisMe](img/Esa_Azmi_Faiq.png)
 
 <!--
 **Repo-Esa/Repo-Esa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

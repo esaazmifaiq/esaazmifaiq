@@ -24,3 +24,20 @@
 [![](https://visitcount.itsvg.in/api?id=esaazmifaiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<h3 align="left">playing games</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esaazmifaiq/esaazmifaiq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esaazmifaiq/esaazmifaiq/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/esaazmifaiq/esaazmifaiq/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/esaazmifaiq/esaazmifaiq/output/snake.svg" alt="Snake animation" />
+
+###

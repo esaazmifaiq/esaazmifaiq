@@ -1,6 +1,7 @@
 ## Hello World! I'm Esa Azmi Faiq 👋
 
 ![ThisMe](img/Esa_Azmi_Faiq.png)
+![ThisMe](img/github-header-banner.png)
 
 <!--
 **Repo-Esa/Repo-Esa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +22,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **@EsaAzmi**
 
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+
+
 ![67](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXAzeThobjg2MW41am5haGR0YWpobjdjemJlYXF1ZzdmaHlxczU4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8rN9VXNb7dfU792YQt/giphy.gif)
